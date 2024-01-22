@@ -6,3 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 ##updating to see how remote and local works
+##Editing from Github
